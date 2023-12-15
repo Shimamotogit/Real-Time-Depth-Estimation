@@ -69,7 +69,7 @@ class detection():
             #     break
         else:
             print('フレームを取得できません。')
-            time.sleep(1)
+            sleep(1)
 
 
 
